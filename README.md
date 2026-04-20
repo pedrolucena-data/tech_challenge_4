@@ -1,7 +1,10 @@
 # Tech Challenge 4 
+
 Pós graduação em Data Analytics: Projeto da fase 2.
 Tema: Data viz and production models.
+
 Autor: **Pedro Lopes de Lucena** - RM 367572
+
 ---
 
 ## Índice
